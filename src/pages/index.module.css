@@ -1,0 +1,34 @@
+.header {
+  text-align: center;
+}
+
+.content {
+  margin: auto;
+  max-width: 502px;
+}
+
+.message {
+  display: flex;
+  text-align: center;
+}
+
+.left,
+.right {
+  display: none;
+}
+
+.center {
+  padding: 1rem;
+}
+
+.gateContainer {
+  margin: auto;
+  max-width: 162px;
+}
+
+@media screen and (min-width: 502px) {
+  .left,
+  .right {
+    display: inline-block;
+  }
+}
