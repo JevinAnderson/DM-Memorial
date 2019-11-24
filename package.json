@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "DM-Memorial",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "An homage to the darkmists mud found at www.darkmists.org",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Jevin Anderson <jevinanderson@gmail.com>",
   "dependencies": {
     "gatsby": "^2.17.11",
     "gatsby-image": "^2.2.31",
