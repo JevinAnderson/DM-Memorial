@@ -1,0 +1,11 @@
+.navigationContainer {
+  text-align: center;
+}
+
+.navigationTable {
+  display: inline-block;
+}
+
+.link {
+  color: #999999;
+}

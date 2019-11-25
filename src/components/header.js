@@ -24,7 +24,7 @@ const Banner = () => {
 const Header = () => (
   <header className={styles.header}>
     <Link to="/">
-      <Banner></Banner>
+      <Banner />
     </Link>
   </header>
 );
