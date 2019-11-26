@@ -25,6 +25,10 @@ const SurveyLayout = ({ children }) => (
             href: "/survey/roleplay",
             text: "Roleplay"
           },
+          {
+            href: "/survey/character",
+            text: "Character"
+          },
         ]}
       />
     }
