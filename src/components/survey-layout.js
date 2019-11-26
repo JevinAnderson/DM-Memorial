@@ -37,6 +37,10 @@ const SurveyLayout = ({ children }) => (
             href: "/survey/area",
             text: "Area"
           },
+          {
+            href: "/survey/house",
+            text: "House"
+          },
         ]}
       />
     }
