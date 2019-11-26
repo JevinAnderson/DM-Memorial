@@ -45,6 +45,10 @@ const SurveyLayout = ({ children }) => (
             href: "/survey/clan",
             text: "Clan"
           },
+          {
+            href: "/survey/class",
+            text: "Class"
+          }
         ]}
       />
     }
