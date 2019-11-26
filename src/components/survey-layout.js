@@ -29,6 +29,10 @@ const SurveyLayout = ({ children }) => (
             href: "/survey/character",
             text: "Character"
           },
+          {
+            href: "/survey/your-character",
+            text: "Your character"
+          },
         ]}
       />
     }
