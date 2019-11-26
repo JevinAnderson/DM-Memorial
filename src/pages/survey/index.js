@@ -21,7 +21,7 @@ const INNER_RADIUS = OUTER_RADIUS - 35;
 
 const IndexPage = () => (
   <SurveyLayout>
-    <SEO title="Survey Results" />
+    <SEO title="Ending" />
     <Container>
       <HRBorder />
       <div className={styles.content}>
