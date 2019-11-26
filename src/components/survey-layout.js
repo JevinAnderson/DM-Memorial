@@ -12,6 +12,10 @@ const SurveyLayout = ({ children }) => (
           {
             href: "/",
             text: "Home"
+          },
+          {
+            href: "/survey/",
+            text: "Ending"
           }
         ]}
       />

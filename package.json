@@ -17,9 +17,10 @@
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-helmet": "^5.2.1",
-    "react-minimal-pie-chart": "^5.0.2"
+    "recharts": "^1.8.5"
   },
   "devDependencies": {
+    "babel-plugin-recharts": "^1.2.0",
     "gatsby-cli": "^2.8.13",
     "prettier": "^1.19.1"
   },

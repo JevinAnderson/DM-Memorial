@@ -11,10 +11,8 @@ const Navigation = ({ links }) => (
         <tr>
           {links.map(link => (
             <td key={link.href}>
-              <Link to={link.href}>
-                <a href={link.href} className={styles.link}>
-                  {link.text}
-                </a>
+              <Link to={link.href} className={styles.link}>
+                {link.text}
               </Link>
             </td>
           ))}
