@@ -2,36 +2,28 @@ import React from "react";
 
 import Layout from "../../components/layout";
 import SEO from "../../components/seo";
-import Container from "../../components/container";
-import styles from "../index.module.css";
-import HRBorder from "../../components/hr-border";
-import CirdanTorch from "../../components/cirdan-torch";
-import Gate from "../../components/gate";
+import Room from "../../components/room";
+import Exits from "../../components/exits";
+import { Link } from "gatsby";
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Valhalla" />
-    <Container>
-      <div className={styles.content}>
-        <HRBorder />
-        <h1 className={styles.header}>Welcome!</h1>
-        <div className={styles.message}>
-          <div className={styles.left}>
-            <CirdanTorch />
-          </div>
-          <div className={styles.center}>
-            <p>valhalla coming soon</p>
-          </div>
-          <div className={styles.right}>
-            <CirdanTorch />
-          </div>
-        </div>
-        <div className={styles.gateContainer}>
-          <Gate />
-        </div>
-        <HRBorder />
-      </div>
-    </Container>
+    <SEO title="The mists" />
+    <Room>
+      <h1>The mists</h1>
+      <p>
+        What remains of the mists lies before you. What was once a gatway and
+        training ground to the young adventurers of Thera, is now a desolate
+        graveyard. Dieing bushes littered with the remains of snakes, spiders,
+        and such are all that remain. Even the surrounding mountains are
+        crumbling. There is no more entrance into the lands, only the blasted
+        remnants of a dead world. But all is not lost. A glowing golden path
+        lies before you.
+      </p>
+      <Exits>
+        <Link to="/valhalla/valhalla">north</Link>
+      </Exits>
+    </Room>
   </Layout>
 );
 

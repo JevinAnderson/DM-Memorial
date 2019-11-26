@@ -1,0 +1,8 @@
+.exits a {
+  color: #999999;
+  margin-right: 0.25rem;
+}
+
+.exits a:last-child {
+  margin-right: 0;
+}
