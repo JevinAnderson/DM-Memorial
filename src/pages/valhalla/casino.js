@@ -8,7 +8,7 @@ import { Link } from "gatsby";
 
 const Casino = () => (
   <Layout>
-    <SEO title="Casino" />
+    <SEO title="The Casino" />
     <Room>
       <h1>The Casino</h1>
       <p>
