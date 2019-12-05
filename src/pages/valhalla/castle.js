@@ -19,7 +19,9 @@ const Castle = () => (
         valiant knights of Valor. People often change seats to speak with old
         friends or to meet knights in the afterlife, whom they had never known
         as mortals. There is no importance placed in the arrangement. All are
-        equal here.
+        equal here. Lord Cirdan emanates a sense of peace as praises his knights
+        mortal deeds. Lord Shamutanti and Lord Cedric mingle among the crowd and
+        listen fondly to the heroic tales of their knights.
       </p>
       <Exits>
         <Link to="/valhalla/hall-2">east</Link>
