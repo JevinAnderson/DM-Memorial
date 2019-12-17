@@ -4,8 +4,8 @@ import Layout from "../../components/layout";
 import SEO from "../../components/seo";
 import Room from "../../components/room";
 import Exits from "../../components/exits";
-import {Blue, Glowing} from '../../components/auras'
 import { Link } from "gatsby";
+import { Equipment, Brand } from "../../components/equipment";
 
 const Lelak = () => (
   <Layout>
@@ -21,8 +21,9 @@ const Lelak = () => (
         armaments and weapons that he has collected throughout his journeys.
       </p>
       <p>
-        {"<branded>"} <Glowing /> <Blue /> a deep blue rose whose green thorny
-        stem ends in a quill tip
+        <Equipment name="Lelak">
+          <Brand god="Joja" />
+        </Equipment>
       </p>
       <Exits>
         <Link to="/valhalla/dome">The Dome</Link>

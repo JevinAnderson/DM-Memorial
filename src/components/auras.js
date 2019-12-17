@@ -8,6 +8,9 @@ export const Golden = () => (
 );
 export const Blue = () => <span style={{ color: "cyan" }}>(Blue Aura)</span>;
 export const Glowing = () => <span style={{ color: "white" }}>(Glowing)</span>;
+export const Green = () => <span style={{ color: "lime" }}>(Green Aura)</span>;
+export const Humming = () => <span>(Humming)</span>;
+export const Sticky = () => <span>(Sticky)</span>
 
 const COLORS = [
   "white",
