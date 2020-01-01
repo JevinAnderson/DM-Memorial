@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-import { Blue, Glowing, Green, Humming, Sticky } from "./auras";
+import { Blue, BlueGreen, Glowing, Green, Humming, Sticky } from "./auras";
 
 export function Equipment({ children, name }) {
   return (
@@ -66,6 +66,12 @@ export const DualWielded = ({ children }) => (
 
 export const Brand = ({ children, god = "" }) => {
   switch (god.toLowerCase()) {
+    case "xyza":
+      return (
+        <Brand>
+          <BlueGreen /> a Lemniscate
+        </Brand>
+      );
     case "darkwood":
       return (
         <Brand>
