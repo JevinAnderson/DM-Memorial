@@ -20,7 +20,7 @@ const Hall = () => (
         wall is a door marked, "Knowledge".
       </p>
       <Exits>
-        <Link to="/valhalla/hall-5">north</Link>
+        <Link to="/valhalla/banquet">north</Link>
         <Link to="/valhalla/keep/">east</Link>
         <Link to="/valhalla/hall-3">south</Link>
         <Link to="/valhalla/tower/">west</Link>
