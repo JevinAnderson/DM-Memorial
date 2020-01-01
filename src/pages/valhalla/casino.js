@@ -5,6 +5,7 @@ import SEO from "../../components/seo";
 import Room from "../../components/room";
 import Exits from "../../components/exits";
 import { Link } from "gatsby";
+import Characters from "../../components/characters";
 
 const Casino = () => (
   <Layout>
@@ -25,6 +26,9 @@ const Casino = () => (
       <Exits>
         <Link to="/valhalla/hall">east</Link>
       </Exits>
+      <Characters>
+        <Link to="/characters/splythe">Splythe is here.</Link>
+      </Characters>
     </Room>
   </Layout>
 );
