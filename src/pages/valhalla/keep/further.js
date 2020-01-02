@@ -25,7 +25,7 @@ const FurtherInTheKeep = () => (
         eastern wall.
       </p>
       <Exits>
-        <Link to="/valhalla/keep/further">north</Link>
+        <Link to="/valhalla/keep/east-side">north</Link>
         <Link to="/valhalla/keep/large-barracks">east</Link>
         <Link to="/valhalla/keep/inner-keep">south</Link>
       </Exits>

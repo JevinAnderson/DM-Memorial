@@ -20,7 +20,7 @@ const InnerKeep = () => (
       <Exits>
         <Link to="/valhalla/keep/battle-room">north</Link>
         <Link to="/valhalla/keep/green-room">east</Link>
-        <Link to="/valhalla/keep/further-2">west</Link>
+        <Link to="/valhalla/keep/southwest-tower">west</Link>
         <Link to="/valhalla/keep/armory">down</Link>
       </Exits>
     </Room>
