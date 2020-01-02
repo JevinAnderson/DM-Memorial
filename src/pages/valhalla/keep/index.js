@@ -32,6 +32,9 @@ const Keep = () => (
         <Link to="/characters/kagemusha">
           A fierce samurai in battle armor patrols the Crusader castle grounds.
         </Link>
+        <Link to="/characters/vindonnus">
+          Vindonnus StoneEdge, BloodKnight and Missionary of Steel is here.
+        </Link>
       </Characters>
     </Room>
   </Layout>
