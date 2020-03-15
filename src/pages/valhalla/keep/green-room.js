@@ -13,12 +13,15 @@ const GreenRoom = () => (
     <Room>
       <h1>The Green Room</h1>
       <p>
-        You enter a barracks built for the medium and smaller races in the
-        Crusader ranks. Comfortable cots and bunks with heavy cotton blankets
-        line the walls. Several nests made of straw and twigs line the northern
-        part of the walls for the draconian race to sleep in. A fireplace to the
-        east burns various pine woods, warming the room and carrying the fresh
-        scent of pine in the air.
+        A cool mist and the sound of splashing water greets you as you enter
+        this part of the keep. It seems the Crusaders planted a miniature forest
+        inside their castle! For a moment it is hard to tell whether you stand
+        inside or out until you catch sight of the large stone ceiling arching
+        overhead. Small oaks, pines, vines, bushes, and flowers of all sorts
+        thrive here. A marble fountain squirts cool water in the center of the
+        tranquil room. Suddenly, you notice a figure blended in with the natural
+        colors, eyeing your every move. Near one of the bushes is a mound and a
+        marker.
       </p>
       <Exits>
         <Link to="/valhalla/keep/further-2">north</Link>
