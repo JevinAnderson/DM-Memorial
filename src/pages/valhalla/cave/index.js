@@ -1,9 +1,9 @@
 import React from "react";
 
-import Layout from "../../components/layout";
-import SEO from "../../components/seo";
-import Room from "../../components/room";
-import Exits from "../../components/exits";
+import Layout from "../../../components/layout";
+import SEO from "../../../components/seo";
+import Room from "../../../components/room";
+import Exits from "../../../components/exits";
 import { Link } from "gatsby";
 
 const Cave = () => (
@@ -24,9 +24,14 @@ const Cave = () => (
         congregate around Lord Isimsiz as he describes the workings of esoteric
         rituals to spread darkness, fear, and hate while drawing strength and
         power from the work.
+        <br />
+        <br />
+        In the floor a fiery pit draws your attention. A circular staircase
+        spirals downwards into the flames. Enter at your own risk.
       </p>
       <Exits>
         <Link to="/valhalla/hall-3">east</Link>
+        <Link to="/valhalla/cave/brethren">down</Link>
       </Exits>
     </Room>
   </Layout>
