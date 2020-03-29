@@ -5,6 +5,7 @@ import SEO from "../../../components/seo";
 import Room from "../../../components/room";
 import Exits from "../../../components/exits";
 import { Link } from "gatsby";
+import Characters from "../../../components/characters";
 
 const BattleRoom = () => (
   <Layout>
@@ -33,6 +34,11 @@ const BattleRoom = () => (
         Liming stands ready to instruct those willing to learn the ways of
         discipline.
       </Link>
+      <Characters>
+        <Link to="/characters/hibernai">
+          A powerfully built, muscular man is here to help with your training.
+        </Link>
+      </Characters>
     </Room>
   </Layout>
 );
