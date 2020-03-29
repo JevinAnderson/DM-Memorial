@@ -5,6 +5,7 @@ import SEO from "../../../components/seo";
 import Room from "../../../components/room";
 import Exits from "../../../components/exits";
 import { Link } from "gatsby";
+import Characters from "../../../components/characters";
 
 const FurtherInTheKeep = () => (
   <Layout>
@@ -25,6 +26,9 @@ const FurtherInTheKeep = () => (
         <Link to="/valhalla/keep/moderate-barracks">east</Link>
         <Link to="/valhalla/keep/green-room">south</Link>
       </Exits>
+      <Characters>
+        <Link to="/characters/xartaul">Lord Xartaul is here.</Link>
+      </Characters>
     </Room>
   </Layout>
 );
