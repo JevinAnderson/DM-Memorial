@@ -5,6 +5,7 @@ import SEO from "../../../components/seo";
 import Room from "../../../components/room";
 import Exits from "../../../components/exits";
 import { Link } from "gatsby";
+import Characters from "../../../components/characters";
 
 const Canteen = () => (
   <Layout>
@@ -22,10 +23,14 @@ const Canteen = () => (
       <Exits>
         <Link to="/valhalla/keep/bar">west</Link>
       </Exits>
-      <Link to="/characters/yaburg">
-        Yaburg goes about, fumbling and bumping into everything.
-      </Link>
-      <br />
+      <Characters>
+        <Link to="/characters/yaburg">
+          Yaburg goes about, fumbling and bumping into everything.
+        </Link>
+        <Link to="/characters/kevinlape">
+          Kevinlape the Butcher is here, preparing another steak at the counter.{" "}
+        </Link>
+      </Characters>
     </Room>
   </Layout>
 );
