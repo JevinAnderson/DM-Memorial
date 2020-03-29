@@ -48,6 +48,9 @@ export const Torso = ({ children }) => (
 
 export const Ear = ({ children }) => <Item slot="worn on ear">{children}</Item>;
 
+export const Eyes = ({ children }) => <Item slot="worn over eyes">{children}</Item>;
+
+
 export const Head = ({ children }) => (
   <Item slot="worn on head">{children}</Item>
 );
@@ -69,7 +72,7 @@ export const Hands = ({ children }) => (
 );
 
 export const Body = ({ children }) => (
-  <Item slot="worn on body">{children}</Item>
+  <Item slot="worn about body">{children}</Item>
 );
 
 export const Shield = ({ children }) => (

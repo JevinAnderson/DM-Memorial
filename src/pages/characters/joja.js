@@ -11,12 +11,14 @@ import {
   Neck,
   Torso,
   Ear,
+  Eyes,
   Legs,
   Feet,
   Arms,
   Wrist,
   Wielded,
-  Brand
+  Brand,
+  Body
 } from "../../components/equipment";
 
 const Joja = () => (
@@ -58,6 +60,7 @@ const Joja = () => (
           <Torso>
             a long tunic that seems to be fashioned from springtime oak leaves
           </Torso>
+          <Eyes>a pair of silver glasses</Eyes>
           <Ear>
             (Deep Blue Aura) A beautiful earring glowing with the purity of
             Joja's soul
@@ -76,6 +79,7 @@ const Joja = () => (
           <Arms>
             a pair of long flared sleeves fashioned from springtime oak leaves
           </Arms>
+          <Body>a poncho from the carcass of Istrovir</Body>
           <Wrist>a small string of Istrovir's broken teeth</Wrist>
           <Wrist>(L) (Glowing) a vine bracelet</Wrist>
           <Wielded>
