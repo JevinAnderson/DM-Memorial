@@ -45,10 +45,10 @@ const BluePrint = () => (
           <Feet>a</Feet>
           <Hands>a</Hands>
           <Arms>a</Arms>
+          <Shield>s</Shield>
           <Body>b</Body>
           <Wrist>a</Wrist>
           <Wrist>b</Wrist>
-          <Shield>s</Shield>
           <Wielded>a</Wielded>
           <DualWielded>a</DualWielded>
         </Equipment>
