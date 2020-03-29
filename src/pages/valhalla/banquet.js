@@ -49,6 +49,10 @@ const Banquet = () => (
         <Link to="/characters/ashanti">Lord Ashanti is here.</Link>
         <Link to="/characters/tziensarith">Lord Tziensarith is here.</Link>
         <Link to="/characters/huerkin">Lord Huerkin is here.</Link>
+        <Link to="/characters/nessa">
+          A beautiful elvish woman with thick, wavy red-gold hair regards you
+          with gold-flecked emerald eyes.
+        </Link>
       </Characters>
     </Room>
   </Layout>
