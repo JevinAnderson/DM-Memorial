@@ -5,6 +5,7 @@ import SEO from "../../../components/seo";
 import Room from "../../../components/room";
 import Exits from "../../../components/exits";
 import { Link } from "gatsby";
+import Characters from "../../../components/characters";
 
 const InnerKeep = () => (
   <Layout>
@@ -26,6 +27,9 @@ const InnerKeep = () => (
         <Link to="/valhalla/keep/further-2">south</Link>
         <Link to="/valhalla/keep/hall-of-memory-2">west</Link>
       </Exits>
+      <Characters>
+        <Link to="/characters/gharmyr">Gharmyr is here.</Link>
+      </Characters>
     </Room>
   </Layout>
 );
