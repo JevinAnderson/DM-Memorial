@@ -6,6 +6,7 @@ import Room from "../../../components/room";
 import Exits from "../../../components/exits";
 import Spaces from "../../../components/spaces";
 import { Link } from "gatsby";
+import Characters from "../../../components/characters";
 
 const LargeBarracks = () => (
   <Layout>
@@ -25,6 +26,9 @@ const LargeBarracks = () => (
       </Exits>
       <Spaces />
       You see a row of large zebrawood bedframes.
+      <Characters>
+        <Link to="/characters/bleyard">Bleyard is here.</Link>
+      </Characters>
     </Room>
   </Layout>
 );
