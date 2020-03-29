@@ -6,8 +6,9 @@ import Room from "../../../components/room";
 import Exits from "../../../components/exits";
 import Spaces from "../../../components/spaces";
 import { Link } from "gatsby";
+import Characters from "../../../components/characters";
 
-const LargeBarracks = () => (
+const Decisions = () => (
   <Layout>
     <SEO title="The Keep" />
     <Room>
@@ -31,8 +32,11 @@ const LargeBarracks = () => (
       </Exits>
       <Spaces />A carving of a giant warrior and a large red dragon doing battle
       is set into the wall, serving as a fountain.
+      <Characters>
+        <Link to="/characters/shokaitjisu">Shokaitjisu is here.</Link>
+      </Characters>
     </Room>
   </Layout>
 );
 
-export default LargeBarracks;
+export default Decisions;
