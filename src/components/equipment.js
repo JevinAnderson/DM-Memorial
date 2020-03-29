@@ -100,6 +100,12 @@ export const DualWielded = ({ children }) => (
   <Item slot="dual wielded">{children}</Item>
 );
 
+export const TwoHand = ({ children }) => (
+  <Item slot="two-handed wielded">{children}</Item>
+);
+
+export const Orb = ({ children }) => <Item slot="orb">{children}</Item>;
+
 export const Brand = ({ children, god = "" }) => {
   switch (god.toLowerCase()) {
     case "xyza":
@@ -124,9 +130,11 @@ export const Brand = ({ children, god = "" }) => {
     case "riallus":
       return (
         <Brand>
-          <Fiery></Fiery> a Rising Phoenix
+          <Fiery /> a Rising Phoenix
         </Brand>
       );
+    case "nyrisia":
+      return <Brand>a broken glass orb</Brand>;
     default:
       return <Item slot="branded">{children}</Item>;
   }

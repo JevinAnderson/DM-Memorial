@@ -23,6 +23,7 @@ import {
   Held,
   Wielded,
   DualWielded,
+  TwoHand,
   Brand
 } from "../../components/equipment";
 
@@ -54,6 +55,7 @@ const BluePrint = () => (
           <Held>h</Held>
           <Wielded>a</Wielded>
           <DualWielded>a</DualWielded>
+          <TwoHand>t</TwoHand>
           <Brand god="joja"></Brand>
         </Equipment>
       </p>
