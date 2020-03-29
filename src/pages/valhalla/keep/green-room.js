@@ -47,6 +47,9 @@ const GreenRoom = () => (
       A cricket slowly moves across the floor.
       <br />
       <Characters>
+        <Link to="/characters/darkwood">
+          A towering giant gazing down as a cyclone spins foliage around him
+        </Link>
         <Link to="/characters/aydain">
           A pretty blonde elf puts the finishing touches on a new pelt.{" "}
         </Link>
