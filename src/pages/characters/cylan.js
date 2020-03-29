@@ -13,7 +13,7 @@ import {
   Body,
   Legs,
   Shield,
-  Wielded,
+  Wielded
 } from "../../components/equipment";
 
 const Cylan = () => (

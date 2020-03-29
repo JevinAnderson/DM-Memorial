@@ -5,6 +5,7 @@ import SEO from "../../../components/seo";
 import Room from "../../../components/room";
 import Exits from "../../../components/exits";
 import { Link } from "gatsby";
+import Characters from "../../../components/characters";
 
 const Bar = () => (
   <Layout>
@@ -23,10 +24,15 @@ const Bar = () => (
         <Link to="/valhalla/keep/armory">north</Link>
         <Link to="/valhalla/keep/canteen">east</Link>
       </Exits>
-      <Link to="/characters/kug">
-        Kug stands behind the bar serving drinks.
-      </Link>
-      <br />
+      <Characters>
+        <Link to="/characters/kug">
+          Kug stands behind the bar serving drinks.
+        </Link>
+        <Link to="/characters/femin">
+          A scrawny pirate with a parrot on his right shoulder sits at the
+          counter, drinking heavily and obviously quite drunk.
+        </Link>
+      </Characters>
     </Room>
   </Layout>
 );
