@@ -34,8 +34,20 @@ Item.propTypes = {
   slot: PropTypes.string
 };
 
+export const Ring = ({ children }) => (
+  <Item slot="worn on finger">{children}</Item>
+);
+
+export const Neck = ({ children }) => (
+  <Item slot="worn around neck">{children}</Item>
+);
+
 export const Torso = ({ children }) => (
   <Item slot="worn on torso">{children}</Item>
+);
+
+export const Ear = ({ children }) => (
+  <Item slot="worn on ear">{children}</Item>
 );
 
 export const Head = ({ children }) => (
@@ -56,6 +68,10 @@ export const Arms = ({ children }) => (
 
 export const Shield = ({ children }) => (
   <Item slot="worn as shield">{children}</Item>
+);
+
+export const Wrist = ({ children }) => (
+  <Item slot="worn around wrist">{children}</Item>
 );
 
 export const Wielded = ({ children }) => <Item slot="wielded">{children}</Item>;
