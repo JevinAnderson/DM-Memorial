@@ -45,6 +45,9 @@ const Forge = () => (
         Gagglegrog, the gnomish smith, is here.
       </Link>
       <br />
+      <Link to="/characters/carolinas">
+        A huge giant works with metal upon a large cast iron anvil.
+      </Link>
     </Room>
   </Layout>
 );
