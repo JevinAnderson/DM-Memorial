@@ -37,6 +37,7 @@ const Banquet = () => (
       </Exits>
       You see a large spiral staircase.
       <Characters>
+        <Link to="/characters/nyrisia2">Lady Nyrisia is here.</Link>
         <Link to="/characters/nyrisia">Lady Nyrisia is here.</Link>
         <Link to="/characters/cylan">
           (Fiery Aura) (NIGHTMARE) The fearsome hell horse of the hunt is here.
