@@ -6,6 +6,7 @@ import Room from "../../../components/room";
 import Exits from "../../../components/exits";
 import { Link } from "gatsby";
 import Spaces from "../../../components/spaces";
+import Characters from "../../../components/characters";
 
 const Library = () => (
   <Layout>
@@ -41,6 +42,9 @@ const Library = () => (
       ground.
       <br />
       Amarie, the Librarian, keeps a close eye on the collection of books.
+      <Characters>
+        <Link to="/characters/jord">Lord Jord is here.</Link>
+      </Characters>
     </Room>
   </Layout>
 );
