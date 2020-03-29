@@ -1,19 +1,19 @@
-Should you happen to catch a glympse of Splythe, you'ld notice he stands 
-roughly 6 feet tall. With his long silver hair hanging to his shoulders, his 
+Should you happen to catch a glympse of Splythe, you'ld notice he stands
+roughly 6 feet tall. With his long silver hair hanging to his shoulders, his
 face is not unattractive. And his lavender eyes illuminate his sharp features.
-   His build is slender, but strong, and he walks with a sort of grace,
+His build is slender, but strong, and he walks with a sort of grace,
 like that of a dancer. There is a certain alertness to him as well, he seems to
 be looking, if not seeing, everything. His gaze sweeps around his surroundings
 looking for any sign of trouble.
-   He dresses lightly and in dark cloathing. Preffering black cloaks to more
-blend into the shadows. And he wears his cloak well enough to conceal his 
-weapons and armor, so that he has a more casual look so as not to draw 
+He dresses lightly and in dark cloathing. Preffering black cloaks to more
+blend into the shadows. And he wears his cloak well enough to conceal his
+weapons and armor, so that he has a more casual look so as not to draw
 unwanted attention.
 And in his profession, any attention is unwanted.
 Upon closer inspection you notice that,
 
 The Hell of Crawling Darkness
-  You see before you a dimly-lit cavern, apparently far, far 
+You see before you a dimly-lit cavern, apparently far, far
 underground. The only light is that shed from some strange
 phosphorescent fungus that grows thickly in about every surface.
 The walls and floor seem to be almost shimmering, but upon closer
@@ -27,18 +27,18 @@ A misshapen Griekul stands here, bound to servitude.
 (White Aura) A terrifying demon lord stands before you in all it's profane glory!
 
 The Hell of the Upside-Down Sinners
-  This appears to be an unending series of domed chambers, stretching
+This appears to be an unending series of domed chambers, stretching
 off to infinity in all directions. From the rafters of each chamber
 hang hundreds of mortals, naked and bound with thin bands of
-metal. Each one is suspended upside down, slowing starving and 
-descending into madness in the stale, humid air.  Blisters and 
+metal. Each one is suspended upside down, slowing starving and
+descending into madness in the stale, humid air. Blisters and
 flesh rubbed raw by the restraints drip blood and puss onto
 the oddly-warm floor, and a sick-smelling haze is everpresent.
 [Exits: north east south west]
 (Holy Aura) A terrifying demon lord stands before you in all it's profane glory!
 
 The Hell of Sinful Flesh
-  This place is twisted beyond imagining. Damned mortals beyond
+This place is twisted beyond imagining. Damned mortals beyond
 number are here, all restrained in some twisted, painful fashion to
 concrete slabs, or twisted devices of profane genious. Each of these
 men and women is violated in every conceivable way by learing, drooling
@@ -48,7 +48,7 @@ orifices are created for the demon's pleasure...
 A mind-rending Dragkagh stands here, bound to servitude.
 
 The Hell of Being Cut to Pieces
-  This place is a huge cavern, dark, let illuminated by some unseen
+This place is a huge cavern, dark, let illuminated by some unseen
 light source. The entire area, stretching onward in every direction,
 is bathed in a sickly red glow. Demons are all around, dissecting
 unfortunate mortals in a variety of ways, some rapidly and brutally,
@@ -56,43 +56,43 @@ others slowly and with excrutiating precision. One thing is constant
 though...the screams.
 [Exits: north east south west]
 
-The Hell of Endless Waking                                        
-  This place is an endless, desolate plain. A scorching yellow
-sun burns above at all times, and stinging sand is blown about                  
+The Hell of Endless Waking  
+ This place is an endless, desolate plain. A scorching yellow
+sun burns above at all times, and stinging sand is blown about  
 constantly on searing hot winds. No shelter is to be found, no
-solace 
+solace
 here for the weary damn souls, who are doomed to wander this
-place, pursued forever by vile, winged fiends in the skies above. 
-[Exits: north east south west]                                              
+place, pursued forever by vile, winged fiends in the skies above.
+[Exits: north east south west]  
 A misshapen Griekul stands here, bound to servitude.
 (White Aura) A terrifying demon lord stands before you in all it's profane glory!
 
-The Hell of Twisted Ropes     
-  This place appears to be an endless collection of rooms, all
+The Hell of Twisted Ropes  
+ This place appears to be an endless collection of rooms, all
 with walls of dull, cold metal. Every room is dedicated to the
 sufferring of a single person. In Hell, there is always room
 enough. In the center of each room, a mortal is suspended by
 his entrails from a series of gruesome hooks in the ceiling, which
-is crawling with all manner of worms. The worms are on the ceiling, 
+is crawling with all manner of worms. The worms are on the ceiling,
 and the disembowelled mortal hangs below in agony; gravity
-does the rest. 
-[Exits: north east south west] 
+does the rest.
+[Exits: north east south west]
 
 The Hell of Being Burned Alive
-  Of all the horrible scenes in this plane, this place most closely
+Of all the horrible scenes in this plane, this place most closely
 fits the classical definition of Hell. It is a cracked, ash-smelling
 plane stretching infinitely in every direction. Lakes of fire
 and lava dot the landscape as far as the eye can see, and horned
 devils torture countless damned mortals, forcing them to drink molten
 lead, pressing them under flaming stones...any number of excrutiating
 torments are here.
-Portals lead off in the cardinal directions. 
+Portals lead off in the cardinal directions.
 [Exits: north east south west]
 A mind-rending Dragkagh stands here, bound to servitude.
 (Holy Aura) A terrifying demon lord stands before you in all it's profane glory!
 
 The Hell of a Ten Thousand Knives
-  This place only holds a single damned mortal at a time, a special
+This place only holds a single damned mortal at a time, a special
 place of torment. No particular status is necessary, damned souls
 are put here on a demon lords whim. This is actually a small,
 enclosed chamber, looking to have been constructed of cinderblock.
@@ -105,7 +105,7 @@ Portals lead off in the cardinal directions.
 [Exits: north east south west]
 
 The Hell of Being Skinned Alive
-  This place appears as to be a series of interlocking chambers,
+This place appears as to be a series of interlocking chambers,
 each one holding a poor unfortunate mortal under the care of
 a uniquely twisted demon. The screams hear are ever-present,
 as each mortal has the flesh flayed from his bones eternally,
@@ -117,20 +117,20 @@ the book of Forbidden Evil -- the Brethren
 
 look contents
 The Forbidden Knowledge
-  ==================
-I)      Introduction: A Warning
-         Revealed Demons
-          ************
-Lesser:         The Dretch
-Blood:          The Mezzoloth
-Pain:           The Tengu
-Angst:          The Tengwar
-Terror:         The Cthul
-Destruction:    The Cthulahdd
-Contempt:       The Balrog
-Death:          The Klahgaht
-Soul:           The Griekul
-Wyrm:           The Dragkagh
+==================
+I) Introduction: A Warning
+Revealed Demons
+****\*\*\*\*****
+Lesser: The Dretch
+Blood: The Mezzoloth
+Pain: The Tengu
+Angst: The Tengwar
+Terror: The Cthul
+Destruction: The Cthulahdd
+Contempt: The Balrog
+Death: The Klahgaht
+Soul: The Griekul
+Wyrm: The Dragkagh
 
 look warning
 Introduction: A Warning
@@ -145,9 +145,8 @@ the demonblood flows from your hands, an unholy pact your food,
 demonic cries your drink. Only attempt the conjuration of a demon
 within your power.. for such summonings create a two-way portal,
 one through which you may easily be consumed.
-Nothing can stop us now - the Pact is sealed.
-                    - The Brethren -
-                Rungekutta and Rantialen
+Nothing can stop us now - the Pact is sealed. - The Brethren -
+Rungekutta and Rantialen
 
 look lesser
 The Dretch is a a lesser demon, those of the lower ranks of the
@@ -229,4 +228,3 @@ Upon conjuration, however, this demon is more likely to annihilate you
 than you are to contain it. It considers you worthless, scum, waste..
 prove to it that you are not, and you have a slave of epic proportion.
 Utter its name, mortal, and your life hangs in the balance.
-

@@ -45,7 +45,7 @@ const Joja = () => (
         her sandals.
       </p>
       <p>
-        <Equipment name="Samurai">
+        <Equipment name="Joja">
           <Ring>
             (Sticky) a golden wedding band engraved with the name 'Krazar'
           </Ring>

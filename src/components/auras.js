@@ -7,13 +7,17 @@ export const Golden = () => (
   <span style={{ color: "gold" }}>(Golden Aura)</span>
 );
 export const Blue = () => <span style={{ color: "cyan" }}>(Blue Aura)</span>;
-export const DeepBlue = () => <span style={{ color: "blue" }}>(Deep Blue Aura)</span>;
-export const BlueGreen = () => <span style={{ color: "#0d98ba" }}>(Blue-Green Aura)</span>;
+export const DeepBlue = () => (
+  <span style={{ color: "blue" }}>(Deep Blue Aura)</span>
+);
+export const BlueGreen = () => (
+  <span style={{ color: "#0d98ba" }}>(Blue-Green Aura)</span>
+);
 export const Dark = () => <span style={{ color: "#4A235A" }}>(Dark Aura)</span>;
 export const Glowing = () => <span style={{ color: "white" }}>(Glowing)</span>;
 export const Green = () => <span style={{ color: "lime" }}>(Green Aura)</span>;
 export const Humming = () => <span>(Humming)</span>;
-export const Sticky = () => <span>(Sticky)</span>
+export const Sticky = () => <span>(Sticky)</span>;
 
 const COLORS = [
   "white",

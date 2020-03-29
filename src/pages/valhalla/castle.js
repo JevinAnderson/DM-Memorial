@@ -1,10 +1,11 @@
 import React from "react";
+import { Link } from "gatsby";
 
 import Layout from "../../components/layout";
 import SEO from "../../components/seo";
 import Room from "../../components/room";
 import Exits from "../../components/exits";
-import { Link } from "gatsby";
+import Characters from "../../components/characters";
 
 const Castle = () => (
   <Layout>
@@ -26,6 +27,11 @@ const Castle = () => (
       <Exits>
         <Link to="/valhalla/hall-2">east</Link>
       </Exits>
+      <Characters>
+        <Link to="/characters/fastolph">
+          (Translucent) An elder hobbit, clutching a butter knife, is here.
+        </Link>
+      </Characters>
     </Room>
   </Layout>
 );

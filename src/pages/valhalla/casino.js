@@ -27,6 +27,9 @@ const Casino = () => (
         <Link to="/valhalla/hall">east</Link>
       </Exits>
       <Characters>
+        <Link to="/characters/fastolph">
+          (Translucent) An elder hobbit, clutching a butter knife, is here.
+        </Link>
         <Link to="/characters/splythe">Splythe is here.</Link>
       </Characters>
     </Room>

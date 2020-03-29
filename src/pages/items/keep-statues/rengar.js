@@ -13,4 +13,4 @@ export const Rengar = () => (
   </Statue>
 );
 
-export default Rengar
+export default Rengar;
