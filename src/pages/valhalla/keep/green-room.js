@@ -6,6 +6,7 @@ import Room from "../../../components/room";
 import Exits from "../../../components/exits";
 import Spaces from "../../../components/spaces";
 import { Link } from "gatsby";
+import Characters from "../../../components/characters";
 
 const GreenRoom = () => (
   <Layout>
@@ -45,10 +46,11 @@ const GreenRoom = () => (
       <br />
       A cricket slowly moves across the floor.
       <br />
-      <Link to="/characters/jaghar">
-        A centaur ranger tends to the Green Room.
-      </Link>
-      <br />
+      <Characters>
+        <Link to="/characters/aydain">
+          A pretty blonde elf puts the finishing touches on a new pelt.{" "}
+        </Link>
+      </Characters>
     </Room>
   </Layout>
 );
