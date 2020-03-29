@@ -48,6 +48,7 @@ const Banquet = () => (
         <Link to="/characters/istrovir">Lord Istrovir is here.</Link>
         <Link to="/characters/ashanti">Lord Ashanti is here.</Link>
         <Link to="/characters/tziensarith">Lord Tziensarith is here.</Link>
+        <Link to="/characters/huerkin">Lord Huerkin is here.</Link>
       </Characters>
     </Room>
   </Layout>

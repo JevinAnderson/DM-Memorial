@@ -147,6 +147,8 @@ export const Brand = ({ children, god = "" }) => {
       return <Brand>a keyhole</Brand>;
     case "xurinos":
       return <Brand>(Pulsing) (Sticky) the brand of the cynical llama</Brand>;
+    case "huerkin":
+      return <Brand>purple flames burn atop of a closed eye</Brand>;
     default:
       return <Item slot="branded">{children}</Item>;
   }
