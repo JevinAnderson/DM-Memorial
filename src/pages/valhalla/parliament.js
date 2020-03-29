@@ -5,6 +5,7 @@ import SEO from "../../components/seo";
 import Room from "../../components/room";
 import Exits from "../../components/exits";
 import { Link } from "gatsby";
+import Characters from "../../components/characters";
 
 const Parliament = () => (
   <Layout>
@@ -28,6 +29,9 @@ const Parliament = () => (
       <Exits>
         <Link to="/valhalla/hall">west</Link>
       </Exits>
+      <Characters>
+        <Link to="/characters/kaleb">Lord Kaleb is here.</Link>
+      </Characters>
     </Room>
   </Layout>
 );
