@@ -5,6 +5,7 @@ import SEO from "../../../components/seo";
 import Room from "../../../components/room";
 import Exits from "../../../components/exits";
 import { Link } from "gatsby";
+import Characters from "../../../components/characters";
 
 const HallOfHistory = () => (
   <Layout>
@@ -26,6 +27,9 @@ const HallOfHistory = () => (
         <Link to="/valhalla/keep/chamber-of-decisions">south</Link>
         <Link to="/valhalla/keep/northwest-tower">west</Link>
       </Exits>
+      <Characters>
+        <Link to="/characters/tyberius">Tyberius is here.</Link>
+      </Characters>
     </Room>
   </Layout>
 );
