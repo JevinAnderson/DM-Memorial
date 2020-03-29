@@ -6,6 +6,7 @@ import Room from "../../../components/room";
 import Exits from "../../../components/exits";
 import Spaces from "../../../components/spaces";
 import { Link } from "gatsby";
+import Characters from "../../../components/characters";
 
 const Forge = () => (
   <Layout>
@@ -32,22 +33,21 @@ const Forge = () => (
       <Spaces />
       (Glowing) (Humming) A mighty anvil lies here, awaiting the hammer's
       stroke.
-      <br />
-      <Link to="/characters/rihasixis">
-        Rihasixis, the draconian smith, is here.
-      </Link>
-      <br />
-      <Link to="/characters/telchard">
-        Telchard, the dwarven mastersmith, is here.
-      </Link>
-      <br />
-      <Link to="/characters/gagglegrog">
-        Gagglegrog, the gnomish smith, is here.
-      </Link>
-      <br />
-      <Link to="/characters/carolinas">
-        A huge giant works with metal upon a large cast iron anvil.
-      </Link>
+      <Characters>
+        <Link to="/characters/rihasixis">
+          Rihasixis, the draconian smith, is here.
+        </Link>
+        <Link to="/characters/telchard">
+          Telchard, the dwarven mastersmith, is here.
+        </Link>
+        <Link to="/characters/gagglegrog">
+          Gagglegrog, the gnomish smith, is here.
+        </Link>
+        <Link to="/characters/maelstrom">Lord Maelstrom is here.</Link>
+        <Link to="/characters/carolinas">
+          A huge giant works with metal upon a large cast iron anvil.
+        </Link>
+      </Characters>
     </Room>
   </Layout>
 );
