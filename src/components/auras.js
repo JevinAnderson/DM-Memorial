@@ -21,6 +21,9 @@ export const Sticky = () => <span>(Sticky)</span>;
 export const Fiery = () => (
   <span style={{ color: "#E25822" }}>(Fiery Aura)</span>
 );
+export const Shadowy = () => (
+  <span style={{ color: "purple" }}>&#x3c;shadowy aura&#x3e;</span>
+);
 
 const COLORS = [
   "white",

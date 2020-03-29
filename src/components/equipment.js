@@ -106,6 +106,10 @@ export const TwoHand = ({ children }) => (
 
 export const Orb = ({ children }) => <Item slot="orb">{children}</Item>;
 
+export const ForGlyph = ({ children }) => (
+  <Item slot="forearm glyph">{children}</Item>
+);
+
 export const Brand = ({ children, god = "" }) => {
   switch (god.toLowerCase()) {
     case "xyza":
