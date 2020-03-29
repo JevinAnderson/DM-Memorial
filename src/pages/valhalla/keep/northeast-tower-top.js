@@ -57,6 +57,9 @@ const NorthEastTowerTop = () => (
           (OUTLAW) <DeepBlue /> A tall, slim, fair elven lady with enormous
           wings of fluffy white feathers is here.
         </Link>
+        <Link to="/characters/krazar">
+          A Massive Titan, Surrounded by a Dark Aura
+        </Link>
       </Characters>
     </Room>
   </Layout>
