@@ -1,7 +1,15 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-import { Blue, BlueGreen, Glowing, Green, Humming, Sticky } from "./auras";
+import {
+  Blue,
+  BlueGreen,
+  Glowing,
+  Green,
+  Humming,
+  Sticky,
+  Fiery
+} from "./auras";
 
 export function Equipment({ children, name }) {
   return (
@@ -48,8 +56,9 @@ export const Torso = ({ children }) => (
 
 export const Ear = ({ children }) => <Item slot="worn on ear">{children}</Item>;
 
-export const Eyes = ({ children }) => <Item slot="worn over eyes">{children}</Item>;
-
+export const Eyes = ({ children }) => (
+  <Item slot="worn over eyes">{children}</Item>
+);
 
 export const Head = ({ children }) => (
   <Item slot="worn on head">{children}</Item>
@@ -85,6 +94,8 @@ export const Wrist = ({ children }) => (
 
 export const Wielded = ({ children }) => <Item slot="wielded">{children}</Item>;
 
+export const Held = ({ children }) => <Item slot="held">{children}</Item>;
+
 export const DualWielded = ({ children }) => (
   <Item slot="dual wielded">{children}</Item>
 );
@@ -108,6 +119,12 @@ export const Brand = ({ children, god = "" }) => {
         <Brand>
           <Glowing /> <Blue /> a deep blue rose whose green thorny stem ends in
           a quill tip
+        </Brand>
+      );
+    case "riallus":
+      return (
+        <Brand>
+          <Fiery></Fiery> a Rising Phoenix
         </Brand>
       );
     default:

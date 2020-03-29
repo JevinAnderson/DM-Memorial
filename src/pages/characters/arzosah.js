@@ -11,17 +11,11 @@ import {
   Neck,
   Torso,
   Head,
-  Eyes,
-  Ear,
-  Wrist,
   Arms,
-  Feet,
   Hands,
   Body,
   Legs,
-  Shield,
-  Wielded,
-  DualWielded
+  Shield
 } from "../../components/equipment";
 
 const Arzosah = () => (

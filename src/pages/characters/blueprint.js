@@ -20,8 +20,10 @@ import {
   Body,
   Legs,
   Shield,
+  Held,
   Wielded,
-  DualWielded
+  DualWielded,
+  Brand
 } from "../../components/equipment";
 
 const BluePrint = () => (
@@ -49,8 +51,10 @@ const BluePrint = () => (
           <Body>b</Body>
           <Wrist>a</Wrist>
           <Wrist>b</Wrist>
+          <Held>h</Held>
           <Wielded>a</Wielded>
           <DualWielded>a</DualWielded>
+          <Brand god="joja"></Brand>
         </Equipment>
       </p>
       <Exits>

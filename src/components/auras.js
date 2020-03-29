@@ -18,6 +18,9 @@ export const Glowing = () => <span style={{ color: "white" }}>(Glowing)</span>;
 export const Green = () => <span style={{ color: "lime" }}>(Green Aura)</span>;
 export const Humming = () => <span>(Humming)</span>;
 export const Sticky = () => <span>(Sticky)</span>;
+export const Fiery = () => (
+  <span style={{ color: "#E25822" }}>(Fiery Aura)</span>
+);
 
 const COLORS = [
   "white",

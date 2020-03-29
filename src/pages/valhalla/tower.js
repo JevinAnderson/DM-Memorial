@@ -33,6 +33,9 @@ const Tower = () => (
         <Link to="/valhalla/hall-4">east</Link>
       </Exits>
       <Characters>
+        <Link to="/characters/riallus">
+          <Sticky /> Lord Riallus is here.
+        </Link>
         <Link to="/characters/quenton">
           <Sticky /> A gooey sticky candy dragon is here.
         </Link>
