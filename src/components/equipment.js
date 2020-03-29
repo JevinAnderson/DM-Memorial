@@ -84,6 +84,10 @@ export const Body = ({ children }) => (
   <Item slot="worn about body">{children}</Item>
 );
 
+export const Waist = ({ children }) => (
+  <Item slot="worn on waist">{children}</Item>
+);
+
 export const Shield = ({ children }) => (
   <Item slot="worn as shield">{children}</Item>
 );

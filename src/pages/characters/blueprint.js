@@ -18,6 +18,7 @@ import {
   Feet,
   Hands,
   Body,
+  Waist,
   Legs,
   Shield,
   Held,
@@ -50,6 +51,7 @@ const BluePrint = () => (
           <Arms>a</Arms>
           <Shield>s</Shield>
           <Body>b</Body>
+          <Waist>w</Waist>
           <Wrist>a</Wrist>
           <Wrist>b</Wrist>
           <Held>h</Held>
