@@ -28,6 +28,10 @@ const Bar = () => (
         <Link to="/characters/kug">
           Kug stands behind the bar serving drinks.
         </Link>
+        <Link to="/characters/gryleth">
+          An ancient, shortlegged, and obviously grumpy dwarf patiently
+          observing his surroundings
+        </Link>
         <Link to="/characters/femin">
           A scrawny pirate with a parrot on his right shoulder sits at the
           counter, drinking heavily and obviously quite drunk.
