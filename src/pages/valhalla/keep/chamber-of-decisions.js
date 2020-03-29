@@ -34,6 +34,7 @@ const Decisions = () => (
       is set into the wall, serving as a fountain.
       <Characters>
         <Link to="/characters/shokaitjisu">Shokaitjisu is here.</Link>
+        <Link to="/characters/rasrin">Rasrin Ta'dawen is here.</Link>
       </Characters>
     </Room>
   </Layout>
