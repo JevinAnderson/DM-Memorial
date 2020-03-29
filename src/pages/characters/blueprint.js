@@ -60,7 +60,7 @@ const BluePrint = () => (
         </Equipment>
       </p>
       <Exits>
-        <Link to="/valhalla/parliament">Parliament</Link>
+        <Link to="/valhalla/banquet">The Banquet Hall</Link>
       </Exits>
     </Room>
   </Layout>
