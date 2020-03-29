@@ -20,7 +20,9 @@ const Shokaitjisu = () => (
         work. Though today's mages do not remember him, the Wildcat is back.
       </p>
       <Exits>
-        <Link to="/valhalla/keep/chamber-of-decisions">The Chamber of Decisions</Link>
+        <Link to="/valhalla/keep/chamber-of-decisions">
+          The Chamber of Decisions
+        </Link>
       </Exits>
     </Room>
   </Layout>
