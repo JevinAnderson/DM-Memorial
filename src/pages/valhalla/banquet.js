@@ -41,6 +41,7 @@ const Banquet = () => (
           (Fiery Aura) (NIGHTMARE) The fearsome hell horse of the hunt is here.
         </Link>
         <Link to="/characters/arzosah">Lady Arzosah is here.</Link>
+        <Link to="/characters/tiltan">Lord Tiltan is here.</Link>
       </Characters>
     </Room>
   </Layout>
