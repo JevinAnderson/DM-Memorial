@@ -5,6 +5,7 @@ import SEO from "../../../components/seo";
 import Room from "../../../components/room";
 import Exits from "../../../components/exits";
 import { Link } from "gatsby";
+import Characters from "../../../components/characters";
 
 const InnerKeep = () => (
   <Layout>
@@ -23,6 +24,12 @@ const InnerKeep = () => (
         <Link to="/valhalla/keep/southwest-tower">west</Link>
         <Link to="/valhalla/keep/armory">down</Link>
       </Exits>
+      <Characters>
+        <Link to="/characters/burulli">
+          A muscular human with a scar on his right cheek regards you with
+          penetrating green eyes.
+        </Link>
+      </Characters>
     </Room>
   </Layout>
 );
