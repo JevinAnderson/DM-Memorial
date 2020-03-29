@@ -6,7 +6,6 @@ import SEO from "../../../components/seo";
 import Room from "../../../components/room";
 import Exits from "../../../components/exits";
 import Characters from "../../../components/characters";
-import { DeepBlue } from "../../../components/auras";
 
 const NorthEastTower = () => (
   <Layout>
@@ -39,9 +38,9 @@ const NorthEastTower = () => (
         <Link to="/valhalla/keep/northeast-tower-top">up</Link>
       </Exits>
       <Characters>
-        <Link to="/characters/joja">
-          (OUTLAW) <DeepBlue /> A tall, slim, fair elven lady with enormous
-          wings of fluffy white feathers is here.
+        <Link to="/characters/yamakaze">
+          Yamakaze Tymoran, guardian of the Shrine to Joja, sits in quiet
+          meditation.
         </Link>
       </Characters>
     </Room>

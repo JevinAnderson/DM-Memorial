@@ -5,6 +5,8 @@ import SEO from "../../../components/seo";
 import Room from "../../../components/room";
 import Exits from "../../../components/exits";
 import { Link } from "gatsby";
+import Characters from "../../../components/characters";
+import { DeepBlue } from "../../../components/auras";
 
 const NorthEastTowerTop = () => (
   <Layout>
@@ -50,6 +52,12 @@ const NorthEastTowerTop = () => (
       <Exits>
         <Link to="/valhalla/keep/northeast-tower">down</Link>
       </Exits>
+      <Characters>
+        <Link to="/characters/joja">
+          (OUTLAW) <DeepBlue /> A tall, slim, fair elven lady with enormous
+          wings of fluffy white feathers is here.
+        </Link>
+      </Characters>
     </Room>
   </Layout>
 );
