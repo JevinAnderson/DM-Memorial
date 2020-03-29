@@ -5,7 +5,7 @@ import SEO from "../../components/seo";
 import Room from "../../components/room";
 import Exits from "../../components/exits";
 import { Link } from "gatsby";
-import Characters from '../../components/characters'
+import Characters from "../../components/characters";
 
 const Banquet = () => (
   <Layout>
@@ -37,7 +37,10 @@ const Banquet = () => (
       </Exits>
       You see a large spiral staircase.
       <Characters>
-        <Link to="/characters/cylan">(Fiery Aura) (NIGHTMARE) The fearsome hell horse of the hunt is here.</Link>
+        <Link to="/characters/cylan">
+          (Fiery Aura) (NIGHTMARE) The fearsome hell horse of the hunt is here.
+        </Link>
+        <Link to="/characters/arzosah">Lady Arzosah is here.</Link>
       </Characters>
     </Room>
   </Layout>
