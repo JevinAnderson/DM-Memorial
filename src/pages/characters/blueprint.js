@@ -58,7 +58,7 @@ const BluePrint = () => (
           <Wielded>a</Wielded>
           <DualWielded>a</DualWielded>
           <TwoHand>t</TwoHand>
-          <Brand god="joja"></Brand>
+          <Brand god="joja" />
         </Equipment>
       </p>
       <Exits>

@@ -98,6 +98,14 @@ export const Wrist = ({ children }) => (
 
 export const Wielded = ({ children }) => <Item slot="wielded">{children}</Item>;
 
+export const Line = ({ children }) => (
+  <Item slot="using fishing line">{children}</Item>
+);
+
+export const Lure = ({ children }) => (
+  <Item slot="using as bait/lure">{children}</Item>
+);
+
 export const Held = ({ children }) => <Item slot="held">{children}</Item>;
 
 export const DualWielded = ({ children }) => (
@@ -149,6 +157,8 @@ export const Brand = ({ children, god = "" }) => {
       return <Brand>(Pulsing) (Sticky) the brand of the cynical llama</Brand>;
     case "huerkin":
       return <Brand>purple flames burn atop of a closed eye</Brand>;
+    case "isimsiz":
+      return <Brand>(Oozing) a bubbling black blob</Brand>;
     default:
       return <Item slot="branded">{children}</Item>;
   }

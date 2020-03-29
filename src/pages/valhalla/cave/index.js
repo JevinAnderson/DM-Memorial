@@ -5,6 +5,7 @@ import SEO from "../../../components/seo";
 import Room from "../../../components/room";
 import Exits from "../../../components/exits";
 import { Link } from "gatsby";
+import Characters from "../../../components/characters";
 
 const Cave = () => (
   <Layout>
@@ -33,6 +34,9 @@ const Cave = () => (
         <Link to="/valhalla/hall-3">east</Link>
         <Link to="/valhalla/cave/brethren">down</Link>
       </Exits>
+      <Characters>
+        <Link to="/characters/isimsiz">Lord Isimsiz is here.</Link>
+      </Characters>
     </Room>
   </Layout>
 );
