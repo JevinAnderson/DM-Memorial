@@ -27,6 +27,7 @@ const NorthWestTowerTop = () => (
       </Exits>
       <Characters>
         <Link to="/characters/danduran">Danduran is here.</Link>
+        <Link to="/characters/kelementh">Kelementh is here.</Link>
       </Characters>
     </Room>
   </Layout>
