@@ -6,9 +6,9 @@ import Room from "../../components/room";
 import Exits from "../../components/exits";
 import { Link } from "gatsby";
 
-const BluePrint = () => (
+const Femin = () => (
   <Layout>
-    <SEO title="BluePrint" />
+    <SEO title="Femin" />
     <Room>
       <h1>Femin Underfoot</h1>
       <p>
@@ -44,4 +44,4 @@ const BluePrint = () => (
   </Layout>
 );
 
-export default BluePrint;
+export default Femin;

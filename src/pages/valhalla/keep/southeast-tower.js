@@ -27,7 +27,7 @@ const SoutheastTower = () => (
         <Link to="/valhalla/keep/southeast-tower-top">up</Link>
       </Exits>
       <Characters>
-        <Link to="/characters/dohgin"></Link>
+        <Link to="/characters/faolan">Faolan is here.</Link>
       </Characters>
     </Room>
   </Layout>
