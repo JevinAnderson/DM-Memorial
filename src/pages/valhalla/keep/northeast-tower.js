@@ -42,6 +42,7 @@ const NorthEastTower = () => (
           Yamakaze Tymoran, guardian of the Shrine to Joja, sits in quiet
           meditation.
         </Link>
+        <Link to="/characters/rakzar">Rakzar is here.</Link>
       </Characters>
     </Room>
   </Layout>
