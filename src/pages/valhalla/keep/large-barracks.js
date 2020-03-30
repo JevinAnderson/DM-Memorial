@@ -28,6 +28,7 @@ const LargeBarracks = () => (
       You see a row of large zebrawood bedframes.
       <Characters>
         <Link to="/characters/bleyard">Bleyard is here.</Link>
+        <Link to="/characters/schrader">Schrader is here.</Link>
       </Characters>
     </Room>
   </Layout>
