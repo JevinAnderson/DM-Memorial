@@ -5,6 +5,7 @@ import SEO from "../../../components/seo";
 import Room from "../../../components/room";
 import Exits from "../../../components/exits";
 import { Link } from "gatsby";
+import Characters from "../../../components/characters";
 
 const SoutheastTower = () => (
   <Layout>
@@ -25,6 +26,9 @@ const SoutheastTower = () => (
         <Link to="/valhalla/keep/green-room">west</Link>
         <Link to="/valhalla/keep/southeast-tower-top">up</Link>
       </Exits>
+      <Characters>
+        <Link to="/characters/dohgin"></Link>
+      </Characters>
     </Room>
   </Layout>
 );

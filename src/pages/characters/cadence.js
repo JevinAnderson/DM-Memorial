@@ -32,7 +32,9 @@ const Cadence = () => (
         life-like.
       </p>
       <Exits>
-        <Link to="/valhalla/keep/moderate-barracks">A moderate Crusader barracks</Link>
+        <Link to="/valhalla/keep/moderate-barracks">
+          A moderate Crusader barracks
+        </Link>
       </Exits>
     </Room>
   </Layout>

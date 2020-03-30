@@ -37,6 +37,7 @@ const Decisions = () => (
         <Link to="/characters/rasrin">Rasrin Ta'dawen is here.</Link>
         <Link to="/characters/vledimire">Vledimire is here.</Link>
         <Link to="/characters/danduran">Danduran is here.</Link>
+        <Link to="/characters/dohgin">Dohgin is here.</Link>
       </Characters>
     </Room>
   </Layout>

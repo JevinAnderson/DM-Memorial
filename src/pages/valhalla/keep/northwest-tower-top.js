@@ -5,7 +5,7 @@ import SEO from "../../../components/seo";
 import Room from "../../../components/room";
 import Exits from "../../../components/exits";
 import { Link } from "gatsby";
-import Characters from '../../../components/characters'
+import Characters from "../../../components/characters";
 
 const NorthWestTowerTop = () => (
   <Layout>
