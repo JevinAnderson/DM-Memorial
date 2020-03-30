@@ -27,7 +27,7 @@ const Foyer = () => (
         <Link to="/valhalla/keep/inner-keep">west</Link>
       </Exits>
       <Characters>
-        <Link to="gelador">A muscular giant sharpens his huge battleaxe.</Link>
+        <Link to="/characters/gelador">A muscular giant sharpens his huge battleaxe.</Link>
       </Characters>
     </Room>
   </Layout>
