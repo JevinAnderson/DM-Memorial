@@ -44,6 +44,7 @@ const Library = () => (
       Amarie, the Librarian, keeps a close eye on the collection of books.
       <Characters>
         <Link to="/characters/jord">Lord Jord is here.</Link>
+        <Link to="/characters/nordwolf">Nordwolf is here.</Link>
       </Characters>
     </Room>
   </Layout>
