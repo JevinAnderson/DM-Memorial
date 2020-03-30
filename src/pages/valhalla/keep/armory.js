@@ -5,6 +5,7 @@ import SEO from "../../../components/seo";
 import Room from "../../../components/room";
 import Exits from "../../../components/exits";
 import { Link } from "gatsby";
+import Characters from "../../../components/characters";
 
 const Armory = () => (
   <Layout>
@@ -23,6 +24,9 @@ const Armory = () => (
         <Link to="/valhalla/keep/bar">south</Link>
         <Link to="/valhalla/keep/intersection">up</Link>
       </Exits>
+      <Characters>
+        <Link to="/characters/ortega">Ortega is here.</Link>
+      </Characters>
     </Room>
   </Layout>
 );
