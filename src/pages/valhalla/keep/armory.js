@@ -26,6 +26,7 @@ const Armory = () => (
       </Exits>
       <Characters>
         <Link to="/characters/ortega">Ortega is here.</Link>
+        <Link to="/characters/osric">Osric is here.</Link>
       </Characters>
     </Room>
   </Layout>
