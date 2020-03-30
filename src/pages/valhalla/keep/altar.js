@@ -6,6 +6,7 @@ import Room from "../../../components/room";
 import Exits from "../../../components/exits";
 import { Link } from "gatsby";
 import Spaces from "../../../components/spaces";
+import Characters from "../../../components/characters";
 
 const Altar = () => (
   <Layout>
@@ -36,6 +37,9 @@ const Altar = () => (
       <Spaces />
       An altar stands here, constructed of granite.
       <br />A stone statue of a wise warrior stands by the altar.
+      <Characters>
+        <Link to="/characters/hutcher">Hutcher Scar is here.</Link>
+      </Characters>
     </Room>
   </Layout>
 );
