@@ -43,6 +43,7 @@ const NorthEastTower = () => (
           meditation.
         </Link>
         <Link to="/characters/rakzar">Rakzar is here.</Link>
+        <Link to="/characters/sengeril">Sengeril is here.</Link>
       </Characters>
     </Room>
   </Layout>
