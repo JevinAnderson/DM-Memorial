@@ -29,6 +29,7 @@ const InnerKeep = () => (
           A muscular human with a scar on his right cheek regards you with
           penetrating green eyes.
         </Link>
+        <Link to="/characters/nagac">Nagac is here.</Link>
       </Characters>
     </Room>
   </Layout>
