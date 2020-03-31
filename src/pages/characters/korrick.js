@@ -5,12 +5,13 @@ import SEO from "../../components/seo";
 import Room from "../../components/room";
 import Exits from "../../components/exits";
 import { Link } from "gatsby";
+import { Equipment, Wielded } from "../../components/equipment";
 
 const Korrick = () => (
   <Layout>
     <SEO title="Korrick" />
     <Room>
-      <h1>Korrick</h1>
+      <h1>Korrick the Twinkle-Tail</h1>
       <p>
         Before you is a handsome creature that appears to be both beast and man.
         His long silver hair drapes like a cape across his back. His dark face
@@ -47,6 +48,15 @@ const Korrick = () => (
         army stands ready. In the front bearing a Banner of the Clan is the
         LEADER. What is this? Pink and blue ribbons have been braided into his
         tail. His tail of twinkling fear flicks in a swirl of color behind him.
+      </p>
+      <p>
+        <Equipment>
+          <Wielded>
+            <Link to="/items/weapons/twinkling-death">
+              a rainbow sword named 'Twinkling Death'
+            </Link>
+          </Wielded>
+        </Equipment>
       </p>
       <Exits>
         <Link to="/valhalla/keep/chamber-of-decisions">

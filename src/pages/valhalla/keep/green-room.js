@@ -51,8 +51,9 @@ const GreenRoom = () => (
           A towering giant gazing down as a cyclone spins foliage around him
         </Link>
         <Link to="/characters/aydain">
-          A pretty blonde elf puts the finishing touches on a new pelt.{" "}
+          A pretty blonde elf puts the finishing touches on a new pelt.
         </Link>
+        <Link to="/characters/terius">Terius is here.</Link>
       </Characters>
     </Room>
   </Layout>
