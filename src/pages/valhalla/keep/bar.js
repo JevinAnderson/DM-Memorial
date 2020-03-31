@@ -6,6 +6,7 @@ import Room from "../../../components/room";
 import Exits from "../../../components/exits";
 import { Link } from "gatsby";
 import Characters from "../../../components/characters";
+import Crusaders from "../../../utilities/characters/crusader-characters";
 
 const Bar = () => (
   <Layout>
@@ -36,6 +37,11 @@ const Bar = () => (
           A scrawny pirate with a parrot on his right shoulder sits at the
           counter, drinking heavily and obviously quite drunk.
         </Link>
+        {Object.keys(Crusaders).map(key => (
+          <Link key={key} to={`/characters/dynamic/${key}`}>
+            {Crusaders[key].name} is here.
+          </Link>
+        ))}
       </Characters>
     </Room>
   </Layout>
