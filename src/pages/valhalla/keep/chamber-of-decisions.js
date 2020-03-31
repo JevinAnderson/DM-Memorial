@@ -42,6 +42,7 @@ const Decisions = () => (
         <Link to="/characters/korrick">Korrick is here.</Link>
         <Link to="/characters/rigahi">Rigahi is here.</Link>
         <Link to="/characters/segovax">Segovax is here.</Link>
+        <Link to="/characters/skean">Skean is here.</Link>
       </Characters>
     </Room>
   </Layout>

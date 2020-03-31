@@ -6,8 +6,9 @@ import Room from "../../../components/room";
 import Exits from "../../../components/exits";
 import Spaces from "../../../components/spaces";
 import { Link } from "gatsby";
+import Characters from "../../../components/characters";
 
-const ModerateBarracks = () => (
+const Altar = () => (
   <Layout>
     <SEO title="The Keep" />
     <Room>
@@ -35,12 +36,15 @@ const ModerateBarracks = () => (
       <br />
       A cricket slowly moves across the floor.
       <br />
-      <Link to="/characters/druid-of-darkwood">
-        A tall giant in a green robe silently stands here, observing everything.
-      </Link>
-      <br />
+      <Characters>
+        <Link to="/characters/druid-of-darkwood">
+          A tall giant in a green robe silently stands here, observing
+          everything.
+        </Link>
+        <Link to="/characters/skrapcyn">Skrapcyn is here.</Link>
+      </Characters>
     </Room>
   </Layout>
 );
 
-export default ModerateBarracks;
+export default Altar;
