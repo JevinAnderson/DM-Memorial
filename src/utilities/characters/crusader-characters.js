@@ -29,7 +29,7 @@ appears to have the crest of the Darkforge family.
 There is a new scar that runs across the tattoo of the Battleaxes.. The scar appears to be blade marks that criss-cross.
 The scar is jagged and several parts where it looks like whomever did it, stopped to rest before continuing it.
 By the angle of the scar, it looks self inflicted.
-    `
+`
   },
   {
     name: "Orin Darkforge",
@@ -53,7 +53,7 @@ battleaxe with bright golden blade with the edges dripping with blood. Etched
 into the blade on the left tis Honor and on the blade ta the right Purity. The
 shaft is of oak carved with ancient dwarven symbols. Upon the handle burned
 into the shaft is WARLORD.
-    `
+`
   },
   {
     name: "Viddikren",
@@ -74,7 +74,7 @@ tip of his tail.
 
 Upon his left arm there is a tattoo of a dagger wrapped in
 vines like a tribal wrapping around his arm.
-    `
+`
   },
   {
     name: "Vrothgard Ridgeback",
@@ -101,7 +101,7 @@ Across the vast majority of his broad chest and muscular stomach is a tattoo of 
 shield, inscribed with great detail. Emblazoned upon the top of shield, just below his neck
 is the word ENVOY. Wreathed through the letters are vines and flowers, which trail along the
 edges of the shield.
-    `
+`
   },
   {
     name: "Wojciecha Haar-Meggido",
@@ -121,7 +121,7 @@ right forearm is the shield and quill which signifies the of Envoy
 of the Crusade.  Delicately worked in the skin of her cheek is a small mark
 which seems to be a part of her, A Lemniscate which glows softly with a
 blue-green hue.
-    `
+`
   },
   {
     name: "Woldrun",
@@ -143,7 +143,7 @@ Etched neatly on his right bicep you notice an ornate dagger.
 Upon his left bicep you see a mighty skwirl holding a broadsword.
 Upon his right bicep you see a rather large bunny wielding a warhammer.
 Encircle about his neck you make out a blue rose encircled about a warhammer.
-    `
+`
   },
   {
     name: "Ysbaddaden",
@@ -205,7 +205,7 @@ as they are being unleashed from her body when she moves.
 An elegant belt covers her waist glad with the words,
 "Honor and Glory", with a large silver dragon gripping his
 talons around the words.
-    `
+`
   },
   {
     name: "Deante",
@@ -234,7 +234,7 @@ to show a touch of the monastery.
 
 Upon his right shoulder, you see a bejeweled dagger tattooed in green ink.
 Around the dagger is a larger tattoo, a broadsword encompassing the dagger as its hilt.
-    `
+`
   },
   {
     name: "Panthea Neverbourne",
@@ -266,7 +266,213 @@ On the Griffon's left wrist is a wicked looking Warhammer, its handle glistening
 Below the tattoo of the Warhammer, coming out of its hilt, is a wicked looking Battleaxe,
 sparkling with scaled gems and making the two marks, as a whole, a nasty weapon combination.
 The back of the creature is easily seven feet high, making it quite a nasty foe or war mount.
-    `
+`
+  },
+  {
+    name: "Varshandric",
+    description: `
+Long ivory locks of hair fall to mid shoulder length as they frame a wisened
+face which shows the wear of time upon it.  The features of the face seem
+Alien in apperance with an almost primal, or beastial quality.  The pale skin
+of this man is tightly stretched over a well defined lithe build.  Both arms
+and legs tapper to thin wrists and ankles.  Upon his body are metal plates made
+of a darkened metal which seem out of place on this weak looking man.  Indeed,
+they would be better suited to the body of a warrior, and not this mockery of
+fighter.  Upon his rests a large splended sword, elegant in form. Set upon
+the hilt is a ruby carved in the likness of a heart with the pommel worked into
+the image of a rose whose thorns pierce the heart.  Upon his brow rests a
+look of deadly concentration and seared upon his check beneath the left eye
+is a Trigram softly eminating a blue-green aura.  Upon his right forearm has
+been tattooed a series of images, a black daggger and surounding it a
+a Braodsword etched in the darkest ebony, like some unholy reaver sent with
+some dark purpose, now above that a huge War Hammer fashioned of skulls and
+various other bones rests with grim bearing.
+Varshandric is gushing blood.`
+  },
+  {
+    name: "Katznveit",
+    description: `
+A figure of a tannish hue, which seems to float and hover in the area,
+with eyes of a smoky grey tone seeming to blend into its very aura.
+This being is consisted of none other than the ether itself, and has formed
+it into a mass of strength and power.  He has taken its essence and
+created a (nearly-)solidified spirit of the Art of War.  His common shape
+is one that has been firmly toned and tempered in battle, earning him
+the muscular, yet lean, bodily shape now seen within the mists.
+
+Hovering at a decent height of five feet and nine inches, an imposing figure
+he proves to be.  Yet he is not one that seems the bully type, nor does
+he seem to cower at the prospect of a fight.  This ethereal seems only to
+focus on himself, his studies of war, his own goals - as easily seen from
+the contemplative look on his face at all times.  There is a stare in his eyes
+that seems unrelenting, yet quiet, and powerful.  And even farther within
+that very stare, a look of utmost curiosity and seeking...
+
+A small, pure silver dagger hangs from a sightless chain on his neck,
+signifying his rank among the Crusades.`
+  },
+  {
+    name: "Tanzer",
+    description: `
+Beautiful blonde locks drape about the face of this human, peering through the
+hair that falls about his face, you cannot pry away from the gaze of his
+piercing ice blue eyes.  He is not extraordinarily large, however his entire
+body is well defined and fine-tune from years of dedication to his training.
+You can only describe the movement of his arms as swift and deadly, true in
+the style of the Tiger.  A droplet of sweat is apparent on his forehead, he
+has obviously just stepped away from his dojo to meet with you.  Like all other
+monks, Tanzer shares the common goal of maintaining the perfect balance between
+both the physical and mental attributes of the body and soul.  He keeps his spirit
+strong.  Branded into his forearm is the dagger of the Steel.`
+  },
+  {
+    name: "Barr",
+    description: `Before you stands a Grey-Elven man that stands, 6'10 ans weighs at least 290 lbs.
+His head is shaved, but from what you can see, his hair is light-red.  He also has a long Goatee of the same color that is stubby towars his chin, but braided tightly the rest of the way down and bound with a small rope at its end.
+His eyes are Irish-Green and his stare seems to beam straight through you.
+His face has a humble expression but can quickly change with his mood.
+His skin is pale, with a light grey tint.
+Upon his body are two stunning tattoos.  The first, a tattoo of a huge serpent with a greenish-grey body and blood-red eyes that extends down slightly past the forearm of his left arm.
+The second, a tattoo of a stunningly beuteaiful Grey-Elven woman with long, eleigant, dark hair, and hypnotizing, green eyes etched in the right side of his muscular chest.
+His build is massive indeed.  His arms remind you of thick oak trees and his legs of towering, stone pillars.
+During his training as a monk of the snake, he has become very agile and quick with both his hands and feet.
+From looking at his current state, one would say that.........`
+  },
+  {
+    name: "Restalon",
+    description: `
+Before you stands a striking figure, with long, blond hair,
+tied back out of his eyes with a blue ribbon.  Strangely,
+his eyes seem to match the very color of his ribbon, an
+impressive work when the varying color of his eyes is
+taken into account.  The 6'4" elf wears little in the means
+of protection, though he does not appear to have suffered
+much for this lack of armoring, save for a few scars he seems to
+bare proudly.  He has a small, intricately designed dagger
+tatooed upon his left forearm on the inside, and above this,
+you notice a broadsword pointed downwards, and about his neck a WarHammer
+that wraps around compeletly.  Upon his exposed bicept you notice
+the mark of the Living Battleaxe.  He draws his hood back
+over his face and returns to his silent meditation.
+Below the WarHammer's head you see a fine blade forming the tip
+of a great Battleaxe, as the hilt runs downwards across his chest
+and seems to be done with a fine gold, something only the hand
+of a divine could do.
+`
+  },
+  {
+    name: "Lord Fizzfaldt",
+    description: `
+A small book, with random colors splashed all over the cover.
+Around the edges bright green trim with flapping purple tassles.
+At one and a half feet and two pounds, a gnome seems a giant.
+The pages are bright white with black writing.
+A little green frog sits on top of the book.
+The Cover of the book looks like it once had a title,
+but is now covered in tiny fragments of rubber.
+
+The book seems to be open to Chapter II.
+
+All it took was a lash and the Kargath went splat.
+Abeni Ineba
+
+To my favorite book, maker of the best candles.  You are a true sweetie Fizzfaldt.
+Nylesha Dakante
+
+Here scribed Jojain of Dhaes Drae Aesilon, Second to the Throne, Envoy of the Crusades,
+Head Councilor of the Golden Leaf Society, on this the Day of Freedom, 11th the Month of the Battle,
+at 1 p.m., wishing Fizzfaldt wert back to being his ald self.
+We miss thine wit and presence in the Steel Clan.  Walking trees who talk back art nice to have around.
+(You see an ink drawing of a war gauntlet crossed by a feathery
+quill pen. To the right of this is a battleaxe with leafy vines
+swirling around the shaft.)
+
+(Flaming) Cirdan, The Eternal Flame, Lord of Peace.
+
+Fizzy ye are a wonderful book and a wonderful friend.
+Alundrel and I wish ye well in the light.
+Remember we elfs like books and remember to have fun.
+Jarre Calendris *a beautiful star lies beside it*
+
+Fizzfaldt, the greatest buk of all, keeper of knowledge and signings! Hims always funny buk!
+Virsipric, the buks friend
+
+Hey Fizzy!
+you having fun on me head, hehe... get off before master comes.
+just between you and me, he stinks.
+Elabrafrog
+
+ChIt BrICKhouSe, CaSino BOUnceR, FirST FronTieR KiNG
+
+DARKWOOD
+
+To Fizzy, I've known you since before you turned to the Dark,
+and then again when you turned back to the Light.
+You're the best buk ever, noone will EVER be quite...like you.
+Sincerely, Asamatatsu, Fist of Fury
+Fizzfaldt is in perfect condition.`
+  },
+  {
+    name: "Armok",
+    description: `
+Before you stands a large hulking giant. He stands
+about 20 feet tall and is large in about every since
+of his body. He wears heavy animal skins about
+his body. when he moves you see hard steal armored
+plating. Over his back is a large sack made from
+the skins of some type of animal, Around his waist
+is a heavy looking sword belt holding a longsword
+and a heavy looking staff.
+
+As you look back up toward his face you notice he has
+dark black hair and brown eyes. He has two scars that
+run down the side of his face as though he were attacked
+by some large creature of the forest. Around his neck
+is a heavy looking gold chain, with a silver maldalion
+melted firmly onto it. It seems to be a crest of some
+sort. Upon his chest is the blazing symbol of the Battleaxe.
+And on his shoulder just above a tattoo of a large
+Warhammer is that of a Large Battleaxe. On the handle
+of the battle axe is the word Warlord in dark red
+ink. He also wears a heavy cloak adorned with the
+same Battleaxe incircled with thorny vines.`
+  },
+  {
+    name: "Rantous",
+    description: `Before ye a man stands 7 feet in heigth. He has long black hair
+that comes to his shoulders. His eyes are light pale blue.
+His body is average but still quiet large. He wear fine armor all
+over his body except on his arms. His arms are covered with
+a strange ink that does not remove. A large silver dagger encrusted
+with sapphires is drawn onto his left arm. On his right are is a
+man sitting with two bears but the face can not be made out.
+
+He also has a small tattoo of a very plain dagger upon his right shoulder,
+As well, you see a Broadsword along his right arm, It streaches from his wrist to his forarm.
+On the other arm, a large warhammer is seared from his wrist to his forarm.
+Rantous is in perfect condition.`
+  },
+  {
+    name: "Qataroth",
+    description: `
+You see before you an obsidian-colored and mysterious being.
+Instead of having white hair like most other dark elves, his
+hair color is that of ice blue. Also contrary to his kin is
+his hair - it is not long but rather short and spiked in
+apparently random formations. You would barely be able to
+notice him except for the faint glowing of his dark lavender
+eyes. Upon closer examination, you notice his thick, corded
+muscles run along his small and slim frame allowing for
+great dexterity and agility. His stature does not look very
+intimidating for he only stands just over five foot lengths
+tall. You notice a silver outline of a spider on his left
+forearm and a gold one on his right.
+
+You notice a tattoo of a curved, jagged dagger on his right
+shoulder. On his left shoulder, you see an intricate marking
+of a huge, double-edged broadsword. You notice an odd-looking
+warhammer tattoo with a spiral handle circling around his
+right arm.`
   }
 ].reduce((results, entry) => {
   const key = entry.name.split(" ")[0].toLowerCase();
